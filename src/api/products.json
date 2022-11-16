@@ -1,0 +1,227 @@
+{
+    "count": 12,
+    "countByCategory": {
+    "pantalon": 4,
+    "top": 4,
+    "accesorios": 4
+    },
+    "products": [
+    {
+    "id": 1,
+    "name": "Remera Strass M/C",
+    "description": "Mundo Strass: glamour de colección.. Presentamos un básico de lujo en nuestra colección Mundo Strass: la camiseta vintage orgánica. Un elemento básico del armario, la camiseta perfecta de inspiración vintage. Un toque boxy con ribete grueso de canalé 2x1 en el mástil. Desarrollamos y tejemos a medida esta tela premium aquí mismo en Argentina. Es 100% algodón orgánico certificado con una sensación súper suave y ultra cómoda. Teñido en un arcoíris de tonos con tintes no tóxicos y de bajo impacto. Diseñado, impreso, cortado y cosido en Argentina. Confeccionado con tejido orgánico certificado por una industria textil feminista, territorial y popular. Teñido con tintes no tóxicos de bajo impacto y libre de explotación laboral.",
+    "sizes": {
+    "id": 2,
+    "size": "XS"
+    },
+    "colors": {
+    "id": 7,
+    "color": "Blanco"
+    },
+    "category": {
+    "id": 1,
+    "category": "TOP"
+    },
+    "detail": "/api/products/1"
+    },
+    {
+    "id": 2,
+    "name": "Top Amarillo M/C",
+    "description": "BÁSICOS DE TODO EL DÍA. Un tanque para conquistar el mundo: Tops sin mangas en nuestra colección Básicos de todo el día. Genial para todo: vestirse, hacer deporte y descansar. Confeccionado con una tela elástica de Lycra con ferrería, lo puedes usar como top, malla y corpiño deportivo. Esta tela fue tejida a medida para nosotros aquí en Argentina.  Teñido en un arcoíris de nuestros tonos usando tintes no tóxicos de bajo impacto y libre de explotación laboral",
+    "sizes": {
+    "id": 5,
+    "size": "L"
+    },
+    "colors": {
+    "id": 3,
+    "color": "Amarillo"
+    },
+    "category": {
+    "id": 1,
+    "category": "TOP"
+    },
+    "detail": "/api/products/2"
+    },
+    {
+    "id": 3,
+    "name": "Remerón Blanco M/C",
+    "description": "BÁSICOS DE TODO EL DIA. El Remerón llegó para quedarse: una versión actualizada de los remerones clásicos para esta nueva colección Básicos para todo el día. Diseñado para ser usado holgado. Genial para todo: vestirse, ponerse capas y descansar. Perfecto para llevarlo solo o en capas en los meses más fríos. Estos remerones funcionan sin esfuerzo para cualquier atuendo informal o elegante. Confeccionado en 100 % algodón. Esta tela fue tejida a medida para nosotros aquí en Argentina.  Teñido en un arcoíris de nuestros tonos usando tintes no tóxicos y de bajo impacto.",
+    "sizes": {
+    "id": 5,
+    "size": "L"
+    },
+    "colors": {
+    "id": 7,
+    "color": "Blanco"
+    },
+    "category": {
+    "id": 1,
+    "category": "TOP"
+    },
+    "detail": "/api/products/3"
+    },
+    {
+    "id": 4,
+    "name": "Top Negro S/M",
+    "description": "Presentamos un básico de lujo en nuestra colección Básicos de Todo el día: el cuello alto sin mangas esencial. Un básico de armario. Perfecto para llevarlo solo o en capas en los meses más fríos. Esta camiseta funciona sin esfuerzo para cualquier atuendo informal o elegante. Nuestro cuello de tortuga tiene la altura perfecta: no es demasiado alto para tener que girarlo y no es tan bajo como para incomodar. Desarrollamos y tejemos a medida esta tela premium aquí mismo en Argentina. Es 95% algodón orgánico certificado mezclado con 5% spandex para una sensación ajustada y ultra cómoda. Teñido en un arcoíris de tonos con tintes no tóxicos y de bajo impacto. Diseñado, impreso, cortado y cosido en Argentina. Confeccionado con tejido orgánico certificado por una industria textil feminista, territorial y popular. Teñido con tintes no tóxicos de bajo impacto y libre de explotación laboral.",
+    "sizes": {
+    "id": 3,
+    "size": "S"
+    },
+    "colors": {
+    "id": 8,
+    "color": "Negro"
+    },
+    "category": {
+    "id": 1,
+    "category": "TOP"
+    },
+    "detail": "/api/products/4"
+    },
+    {
+    "id": 5,
+    "name": "Pantalón Jirafa",
+    "description": "¡Ha vuelto, cariño!¡Impresionante estampa Jirafa de edición limitada! Nuestro pantalón más vendido: nuestros shorts son un elemento básico del armario. Pantalones cortos inspirados en las necesidades diarias multiuso. Elástico añadido en la cintura para una mayor flexibilidad de tamaño. Costuras resistentes. Confeccionado con nuestra resistente sarga de 100 % algodón. ¡Nuestra sarga no tiene elasticidad incorporada en la tela, pero todas nuestras piezas se adaptan maravillosamente con el uso y se ajustan a su cuerpo! ¡Impreso en nuestra edición limitada Jirafa print! Diseñado, impreso, cortad y cosido en Argentina. Confeccionado con tejido orgánico certificado por una industria textil local. Teñido con tintes no tóxicos de bajo impacto y libre de explotación laboral.",
+    "sizes": {
+    "id": 8,
+    "size": "3XL"
+    },
+    "colors": {
+    "id": 2,
+    "color": "Azul"
+    },
+    "category": {
+    "id": 2,
+    "category": "PANTALON"
+    },
+    "detail": "/api/products/5"
+    },
+    {
+    "id": 6,
+    "name": "Biker Negra",
+    "description": " Nuestras calzas más vendidas, ahora recortados en estas cómodas bikers. El mismo calce clásico que has llegado a conocer y amar pero... más corto. Estas calzas cortos son las más cómodas. Elásticos para convertirse en una segunda piel de tu cuerpo ¡Te olvidarás que la llevas puesta! Costuras resistentes. Confeccionado con nuestra mezcla 80% poliéster y 20% elastano. ¡Todas nuestras piezas se adaptan maravillosamente y se ajustan a su cuerpo! Esta tela fue tejida a medida para nosotros aquí en Argentina.  Teñido en un arcoíris de nuestros tonos usando tintes no tóxicos de bajo impacto y libre de explotación laboral. ",
+    "sizes": {
+    "id": 5,
+    "size": "L"
+    },
+    "colors": {
+    "id": 8,
+    "color": "Negro"
+    },
+    "category": {
+    "id": 2,
+    "category": "PANTALON"
+    },
+    "detail": "/api/products/6"
+    },
+    {
+    "id": 7,
+    "name": "Biker Naranja ",
+    "description": " Nuestras calzas más vendidas, ahora recortados en estas cómodas bikers. El mismo calce clásico que has llegado a conocer y amar pero... más corto. Estas calzas cortos son las más cómodas. Elásticos para convertirse en una segunda piel de tu cuerpo ¡Te olvidarás que la llevas puesta! Costuras resistentes. Confeccionado con nuestra mezcla 80% poliéster y 20% elastano. ¡Todas nuestras piezas se adaptan maravillosamente y se ajustan a su cuerpo! Esta tela fue tejida a medida para nosotros aquí en Argentina.  Teñido en un arcoíris de nuestros tonos usando tintes no tóxicos de bajo impacto y libre de explotación laboral.",
+    "sizes": {
+    "id": 5,
+    "size": "L"
+    },
+    "colors": {
+    "id": 4,
+    "color": "Naranja"
+    },
+    "category": {
+    "id": 2,
+    "category": "PANTALON"
+    },
+    "detail": "/api/products/7"
+    },
+    {
+    "id": 8,
+    "name": "Short Batik",
+    "description": "¡Nueva talla después de la XL! Súper cómodo y liviano, hecho especialmente para nosotros aquí en Argentina. Lo llamamos peso de INCLUDE: ligero, transpirable, acogedor y lujoso. Genial por sí solo para usar en temporadas de calor.  Teñido a mano aquí en Argentina, por lo que cada pieza, aunque similar, ¡son totalmente únicas! ¡No hay dos iguales! ¡Puedes conseguir uno que sea casi idéntico al de la foto, o uno que tenga más o menos de cada color de tinte, etc.! Diseñado, cortado, cosido, teñido y bordado en Argentina. Teñido con tintes no tóxicos de bajo impacto y libre de explotación laboral. ",
+    "sizes": {
+    "id": 1,
+    "size": "XXS"
+    },
+    "colors": {
+    "id": 7,
+    "color": "Blanco"
+    },
+    "category": {
+    "id": 2,
+    "category": "PANTALON"
+    },
+    "detail": "/api/products/8"
+    },
+    {
+    "id": 9,
+    "name": "Medias",
+    "description": "¡Tu nuevo básico de armario! Un calcetín fino de uso diario para todas las estaciones. Perfil elegante y prenda teñida en un enorme arcoíris de matices. ¡Tenga en cuenta que los calcetines son un artículo de venta final y no son elegibles para devolución o cambio! Todos los tintes de corbata son únicos y no serán exactamente como se muestran en la imagen.  ",
+    "sizes": {
+    "id": 5,
+    "size": "L"
+    },
+    "colors": {
+    "id": 1,
+    "color": "Rojo"
+    },
+    "category": {
+    "id": 3,
+    "category": "ACCESORIO"
+    },
+    "detail": "/api/products/9"
+    },
+    {
+    "id": 10,
+    "name": "Bandanas",
+    "description": " ¡Nuestros pañuelos están destinados a parecer verdaderamente vintage! Habrá pequeñas inconsistencias en el tinte y la serigrafía. Es posible que la impresión no esté exactamente centrada. ¡Todo esto es intencional! ¡Vamos por esa vibra! ;) . Hecho y diseñado en Argentina con telas locales. Teñido e impreso con tintas/colorantes de bajo impacto y no tóxicos. ",
+    "sizes": {
+    "id": 1,
+    "size": "XXS"
+    },
+    "colors": {
+    "id": 3,
+    "color": "Amarillo"
+    },
+    "category": {
+    "id": 3,
+    "category": "ACCESORIO"
+    },
+    "detail": "/api/products/10"
+    },
+    {
+    "id": 11,
+    "name": "Pin",
+    "description": " Metal plateado - Un posyes en la parte trasera. - Respaldo de pasador de goma Fabricado en EEUU. ",
+    "sizes": {
+    "id": 1,
+    "size": "XXS"
+    },
+    "colors": {
+    "id": 1,
+    "color": "Rojo"
+    },
+    "category": {
+    "id": 3,
+    "category": "ACCESORIO"
+    },
+    "detail": "/api/products/11"
+    },
+    {
+    "id": 12,
+    "name": "Pin Frutas",
+    "description": " Metal dorado - Dos postes en la parte trasera - Respaldo de pasador de goma Fabricado en EEUU. ",
+    "sizes": {
+    "id": 1,
+    "size": "XXS"
+    },
+    "colors": {
+    "id": 1,
+    "color": "Rojo"
+    },
+    "category": {
+    "id": 3,
+    "category": "ACCESORIO"
+    },
+    "detail": "/api/products/12"
+    }
+    ],
+    "urlProductsList": "http://localhost:3000/products/productsList"
+}

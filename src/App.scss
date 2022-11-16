@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+};
+
+body {
+  font-family: 'Roboto', sans-serif;
+};
+body{
+  background-image: url(./assets/FondoDashboard.png);
+}
+
+$light: #210e30d3;
+$gray: #e7e9eb3b;
+
+.flex {
+  display: flex;
+};
+.content{
+  width: 100%;
+};
+
+.navbar {
+  background-color: $light;
+  padding: 1rem 2rem;
+  border-bottom: 1px solid $gray;
+  border-radius: 25px;
+  margin: 10px;
+};
+
+.sidebar{
+  width: 14rem;
+  height: calc(200vH - 52px);
+  border-right: 1px solid $gray;
+  ul{
+    list-style: none;
+    padding: 1rem 2rem;
+    li{
+      margin-bottom: 1rem;
+      a{
+        text-decoration: none;
+        &.active{
+          background-color: $light
+        }
+      }
+    }
+  }
+};
+
+.card-body, .welcomeCard, .card{
+  background-color: $light;
+  color: white
+}
+
+@media (max-width: 770px) {
+
+  #uncontrolledDropdown{
+    display: none;
+  }
+}

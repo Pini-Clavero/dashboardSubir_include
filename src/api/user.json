@@ -1,0 +1,48 @@
+{
+    "count": 7,
+    "users": [
+    {
+    "id": 1,
+    "name": "Mauricio",
+    "email": "mauricio.leguiza@gmail.com",
+    "detail": "/api/users/1"
+    },
+    {
+    "id": 2,
+    "name": "Juan",
+    "email": "juan.ferrari@gmail.com",
+    "detail": "/api/users/2"
+    },
+    {
+    "id": 3,
+    "name": "Viviana",
+    "email": "viviana.grecco@gmail.com",
+    "detail": "/api/users/3"
+    },
+    {
+    "id": 4,
+    "name": "Luisina",
+    "email": "luisina.bassi@gmail.com",
+    "detail": "/api/users/4"
+    },
+    {
+    "id": 5,
+    "name": "Virginia",
+    "email": "virginia.amherdt@gmail.com",
+    "detail": "/api/users/5"
+    },
+    {
+    "id": 6,
+    "name": "Maximiliano",
+    "email": "maximiliano.colombo@gmail.com",
+    "detail": "/api/users/6"
+    },
+    {
+    "id": 7,
+    "name": "Administrador",
+    "email": "administrador@gmail.com",
+    "detail": "/api/users/7"
+    }
+    ],
+    "status": 200
+}
